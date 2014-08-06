@@ -1,0 +1,18 @@
+OpenEmbedded/Yocto BSP layer to fix bugs and add extra image recipes to
+meta-java layer.
+
+It is hosted on https://github.com/sergioprado/meta-java-extras with the
+source repository at git://github.com/sergioprado/meta-java-extras.
+
+This layer depends on:
+
+URI: https://github.com/woglinde/meta-java
+layers: meta-java
+branch: master
+
+Please follow the recommended setup procedures of your OE distribution.
+
+Send pull requests, patches, comments or questions to sergio.prado@e-labworks.com.
+
+Maintainers: Sergio Prado <sergio.prado@e-labworks.com>
+
